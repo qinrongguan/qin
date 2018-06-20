@@ -1,4 +1,7 @@
-qin rong guan
-guangzhou ruitu wanfang
+#include <stdio.h>
 
-guang xi shi fan da xue 
+int main(void)
+{
+
+     return 0;
+}
